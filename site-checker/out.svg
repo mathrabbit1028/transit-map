@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <style>text { font-family: 'Noto Sans KR', sans-serif; }</style>
+  <!-- background -->
+  <rect width="900" height="900" fill="#f8f9fa"/>
+  <!-- Route: 5511(중앙대) -->
+  <polyline points="93.56,393.81 105.92,418.72 115.13,468.06 114.92,517.96 120.76,580.46 132.83,621.58 140.61,648.67 129.05,731.81 133.13,768.97 174.68,741.39 182.25,692.27 177.84,649.57 132.22,614.64 122.40,582.24 116.24,522.78 124.51,497.04 118.30,464.55 112.15,422.97 119.84,392.07 176.32,349.83 196.17,274.89 179.60,182.27 185.11,140.69" fill="none" stroke="#0490C8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="93.56" cy="393.81" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="105.92" cy="418.72" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="115.13" cy="468.06" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="114.92" cy="517.96" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="120.76" cy="580.46" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="132.83" cy="621.58" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="140.61" cy="648.67" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="129.05" cy="731.81" r="4" fill="#0490C8" fill-opacity="0.4" stroke="#0490C8" stroke-width="1.5" stroke-opacity="0.7"/>
+  <circle cx="133.13" cy="768.97" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="174.68" cy="741.39" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="182.25" cy="692.27" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="177.84" cy="649.57" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="132.22" cy="614.64" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="122.40" cy="582.24" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="116.24" cy="522.78" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="124.51" cy="497.04" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="118.30" cy="464.55" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="112.15" cy="422.97" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="119.84" cy="392.07" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="176.32" cy="349.83" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="196.17" cy="274.89" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="179.60" cy="182.27" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <circle cx="185.11" cy="140.69" r="6" fill="white" stroke="#0490C8" stroke-width="2.5"/>
+  <text x="93.56" y="393.81" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울대학교(신림로)</text>
+  <text x="105.92" y="418.72" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">정문</text>
+  <text x="115.13" y="468.06" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">법대.사회대</text>
+  <text x="114.92" y="517.96" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">자연대.행정관</text>
+  <text x="120.76" y="580.46" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">농생대</text>
+  <text x="132.83" y="621.58" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">공대입구</text>
+  <text x="140.61" y="648.67" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">신소재</text>
+  <text x="129.05" y="731.81" dy="-8" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="10" font-weight="normal" fill="#333333" fill-opacity="0.55">제2파워플랜트</text>
+  <text x="133.13" y="768.97" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">건설환경종합연구소</text>
+  <text x="174.68" y="741.39" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">제2공학관</text>
+  <text x="182.25" y="692.27" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">제1공학관</text>
+  <text x="177.84" y="649.57" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">에너지자원신기술연구소</text>
+  <text x="132.22" y="614.64" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">공대입구</text>
+  <text x="122.40" y="582.24" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">농생대</text>
+  <text x="116.24" y="522.78" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">자연대.행정관</text>
+  <text x="124.51" y="497.04" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">문화관</text>
+  <text x="118.30" y="464.55" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">법대.사회대</text>
+  <text x="112.15" y="422.97" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">정문</text>
+  <text x="119.84" y="392.07" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울대학교(관악로)</text>
+  <text x="176.32" y="349.83" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">치과병원</text>
+  <text x="196.17" y="274.89" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울여상</text>
+  <text x="179.60" y="182.27" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">관악구청</text>
+  <text x="185.11" y="140.69" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울대입구역(도착)</text>
+  <!-- Route: 5511(차고지) -->
+  <polyline points="184.14,131.03 186.14,231.74 192.87,278.66 175.29,332.98 93.56,393.81 118.30,464.55 112.15,422.97 156.84,412.98 224.15,411.76 227.53,456.03 263.03,513.76 221.79,619.35 203.38,644.53 177.84,649.57 140.61,648.67 129.05,731.81 133.13,768.97 174.68,741.39 182.25,692.27 177.84,649.57 132.22,614.64 122.40,582.24 116.24,522.78 124.51,497.04 118.30,464.55 112.15,422.97" fill="none" stroke="#59C7F3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="184.14" cy="131.03" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="186.14" cy="231.74" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="192.87" cy="278.66" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="175.29" cy="332.98" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="93.56" cy="393.81" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="118.30" cy="464.55" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="112.15" cy="422.97" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="156.84" cy="412.98" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="224.15" cy="411.76" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="227.53" cy="456.03" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="263.03" cy="513.76" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="221.79" cy="619.35" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="203.38" cy="644.53" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="177.84" cy="649.57" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="140.61" cy="648.67" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="129.05" cy="731.81" r="4" fill="#59C7F3" fill-opacity="0.4" stroke="#59C7F3" stroke-width="1.5" stroke-opacity="0.7"/>
+  <circle cx="133.13" cy="768.97" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="174.68" cy="741.39" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="182.25" cy="692.27" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="177.84" cy="649.57" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="132.22" cy="614.64" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="122.40" cy="582.24" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="116.24" cy="522.78" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="124.51" cy="497.04" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="118.30" cy="464.55" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <circle cx="112.15" cy="422.97" r="6" fill="white" stroke="#59C7F3" stroke-width="2.5"/>
+  <text x="184.14" y="131.03" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울대입구역(출발)</text>
+  <text x="186.14" y="231.74" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">관악경찰서</text>
+  <text x="192.87" y="278.66" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울여상</text>
+  <text x="175.29" y="332.98" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">치과병원</text>
+  <text x="93.56" y="393.81" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">서울대학교(신림로)</text>
+  <text x="118.30" y="464.55" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">법대.사회대</text>
+  <text x="112.15" y="422.97" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">정문</text>
+  <text x="156.84" y="412.98" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">경영대</text>
+  <text x="224.15" y="411.76" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">수의대입구</text>
+  <text x="227.53" y="456.03" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">국제대학원</text>
+  <text x="263.03" y="513.76" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">관악사삼거리</text>
+  <text x="221.79" y="619.35" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">공동기기원</text>
+  <text x="203.38" y="644.53" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">유전공학연구소</text>
+  <text x="177.84" y="649.57" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">에너지자원신기술연구소</text>
+  <text x="140.61" y="648.67" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">신소재</text>
+  <text x="129.05" y="731.81" dy="-8" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="10" font-weight="normal" fill="#333333" fill-opacity="0.55">제2파워플랜트</text>
+  <text x="133.13" y="768.97" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">건설환경종합연구소</text>
+  <text x="174.68" y="741.39" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">제2공학관</text>
+  <text x="182.25" y="692.27" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">제1공학관</text>
+  <text x="177.84" y="649.57" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">에너지자원신기술연구소</text>
+  <text x="132.22" y="614.64" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">공대입구</text>
+  <text x="122.40" y="582.24" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">농생대</text>
+  <text x="116.24" y="522.78" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">자연대.행정관</text>
+  <text x="124.51" y="497.04" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">문화관</text>
+  <text x="118.30" y="464.55" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">법대.사회대</text>
+  <text x="112.15" y="422.97" dy="-10" text-anchor="middle" font-family="Noto Sans KR, sans-serif" font-size="11" font-weight="bold" fill="#333333" fill-opacity="1.0">정문</text>
+  <!-- Legend -->
+  <text x="80" y="850" font-size="12" font-weight="bold" fill="#333333">범례</text>
+  <circle cx="86.00" cy="868.00" r="6" fill="white" stroke="#555555" stroke-width="2.5"/>
+  <text x="96.00" y="868.00" dy="4" font-size="11" fill="#333333">일반 정류장</text>
+  <circle cx="86.00" cy="886.00" r="4" fill="#555555" fill-opacity="0.4" stroke="#555555" stroke-width="1.5" stroke-opacity="0.7"/>
+  <text x="96.00" y="886.00" dy="4" font-size="11" fill="#333333">통과 정류장 (*)</text>
+  <line x1="240.00" y1="868.00" x2="264.00" y2="868.00" stroke="#0490C8" stroke-width="4" stroke-linecap="round"/>
+  <text x="268.00" y="868.00" dy="4" font-size="11" fill="#333333">5511(중앙대)</text>
+  <line x1="400.00" y1="868.00" x2="424.00" y2="868.00" stroke="#59C7F3" stroke-width="4" stroke-linecap="round"/>
+  <text x="428.00" y="868.00" dy="4" font-size="11" fill="#333333">5511(차고지)</text>
+</svg>

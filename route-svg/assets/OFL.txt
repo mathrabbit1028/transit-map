@@ -1,0 +1,12 @@
+This project expects a font file (TTF) for rendering Korean stop names.
+
+Recommended:
+- Noto Sans KR (SIL Open Font License)
+
+Steps:
+1) Download NotoSansKR-Regular.ttf from Google's Noto fonts repository or official distro.
+2) Place it at: route-svg/assets/NotoSansKR-Regular.ttf
+
+License note:
+- Noto fonts are distributed under the SIL Open Font License 1.1.
+- Keep this OFL notice if you include the font file in the repo.

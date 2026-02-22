@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Point Register Map</title>
+    <link rel="stylesheet" href="./styles.css" />
+
+    <!-- Leaflet (CDN) -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+      defer
+    ></script>
+
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="header">
+        <div>
+          <h1 class="title">지도 포인트 등록</h1>
+          <p class="subtitle">지도에서 클릭 → 이름 입력 → 등록</p>
+        </div>
+        <div class="header-actions">
+          <button id="btnExport" class="btn secondary" type="button">JSON 내보내기</button>
+          <button id="btnClear" class="btn danger" type="button">전체 삭제</button>
+        </div>
+      </header>
+
+      <main class="main">
+        <section class="panel map-panel">
+          <div id="map"></div>
+          <div class="hint">
+            <span class="kbd">Shift</span> + 클릭: 정밀 핀(기존 선택 핀 유지) / 그냥 클릭: 선택 핀 이동
+          </div>
+        </section>
+
+        <aside class="panel side-panel">
+          <section>
+            <h2 class="section-title">선택된 지점</h2>
+            <div class="form">
+              <label class="field">
+                <span class="label">이름</span>
+                <input id="inputName" type="text" placeholder="예: 시청역 1번 출구" maxlength="60" />
+              </label>
+
+              <div class="grid2">
+                <label class="field">
+                  <span class="label">위도</span>
+                  <input id="inputLat" type="text" readonly />
+                </label>
+                <label class="field">
+                  <span class="label">경도</span>
+                  <input id="inputLng" type="text" readonly />
+                </label>
+              </div>
+
+              <div class="grid2">
+                <label class="field">
+                  <span class="label">등록 세션(앞 2자리)</span>
+                  <input id="inputSession" type="number" min="1" step="1" />
+                </label>
+                <label class="field">
+                  <span class="label">다음 일련번호(뒤 3자리)</span>
+                  <input id="inputNextSeq" type="text" readonly />
+                </label>
+              </div>
+
+              <div class="actions">
+                <button id="btnRegister" class="btn" type="button">등록</button>
+              </div>
+            </div>
+
+            <div class="note">
+              고유번호 규칙: <code>SSNNN</code> (SS=등록 세션 2자리, NNN=해당 세션 내 순번 3자리)
+            </div>
+          </section>
+
+          <section class="list-section">
+            <div class="list-header">
+              <h2 class="section-title">등록 목록</h2>
+              <div class="list-meta">
+                <span id="stats"></span>
+              </div>
+            </div>
+            <div class="list" id="list"></div>
+          </section>
+        </aside>
+      </main>
+
+      <footer class="footer">
+        <span class="muted">저장 위치: <code>data/position/SS.json</code> (서버 실행 필요)</span>
+      </footer>
+    </div>
+
+    <dialog id="dialogExport" class="dialog">
+      <form method="dialog" class="dialog-form">
+        <div class="dialog-header">
+          <h3>JSON 내보내기</h3>
+          <button class="icon-btn" value="close" aria-label="닫기" title="닫기">✕</button>
+        </div>
+        <textarea id="exportText" class="export-text" spellcheck="false"></textarea>
+        <div class="dialog-actions">
+          <button id="btnCopy" class="btn secondary" value="close" type="button">복사</button>
+          <button class="btn" value="close" type="submit">닫기</button>
+        </div>
+      </form>
+    </dialog>
+  </body>
+</html>
