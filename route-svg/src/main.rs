@@ -145,7 +145,6 @@ fn svg_label(x: f64, y: f64, name: &str, passthrough: bool, _color: &str) -> Str
 }
 
 // ── Main ──────────────────────────────────────────────────────────────────────
-// cargo run -- --route ../data/route/{number}.json --position ../data/position --output ../out.svg
 
 fn main() -> Result<()> {
     let cli = Cli::parse();
