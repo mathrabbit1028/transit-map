@@ -1,0 +1,86 @@
+[
+    {
+        "id": "hole-0",
+        "name": "서울-제주",
+        "route": [
+            "99001",
+            "99005"
+        ],
+        "style": {
+            "color": "#039696",
+            "bidirectional": false
+        }
+    },
+    {
+        "id": "hole-1",
+        "name": "서울-부산",
+        "route": [
+            "99001",
+            "99004"
+        ],
+        "style": {
+            "color": "#04C8C8",
+            "bidirectional": false
+        }
+    },
+    {
+        "id": "hole-2",
+        "name": "서울-광주",
+        "route": [
+            "99001",
+            "99003"
+        ],
+        "style": {
+            "color": "#2D7FF9",
+            "bidirectional": false
+        }
+    },
+    {
+        "id": "hole-3",
+        "name": "서울-강릉",
+        "route": [
+            "99001",
+            "99002"
+        ],
+        "style": {
+            "color": "#5B5FEF",
+            "bidirectional": false
+        }
+    },
+    {
+        "id": "hole-4",
+        "name": "광주-부산",
+        "route": [
+            "99003",
+            "99004"
+        ],
+        "style": {
+            "color": "#7C3AED",
+            "bidirectional": false
+        }
+    },
+    {
+        "id": "hole-5",
+        "name": "광주-강릉",
+        "route": [
+            "99003",
+            "99002"
+        ],
+        "style": {
+            "color": "#BE1A1A",
+            "bidirectional": false
+        }
+    },
+    {
+        "id": "hole-6",
+        "name": "부산-강릉",
+        "route": [
+            "99004",
+            "99002"
+        ],
+        "style": {
+            "color": "#22C55E",
+            "bidirectional": false
+        }
+    }
+]

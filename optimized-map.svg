@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="968" viewBox="0 0 900 968">
+  <style>text { font-family: 'Noto Sans KR', sans-serif; }</style>
+  <rect width="900" height="968" fill="#f8f9fa"/>
+  <!-- Route: 5511(중앙대) -->
+  <polyline points="79.17,404.96 79.17,444.66 75.08,448.75 75.08,457.47 101.52,483.91 101.52,510.22 86.49,525.25 86.49,562.90 102.54,578.95 102.54,613.22 111.37,622.05 111.37,638.13 133.38,660.14 133.38,707.55 122.81,718.12 122.81,747.84 135.28,760.30 170.26,760.30 178.51,752.06 178.51,701.65 172.73,695.87 172.73,659.45 165.72,652.44 165.72,645.15 137.64,617.08 137.64,576.44 134.06,572.86 134.06,552.39 112.35,530.67 112.35,514.11 134.06,492.40 134.06,480.57 101.54,448.06 133.31,417.62 133.31,384.86 143.38,374.79 154.58,374.79 187.92,341.45 187.92,294.09 215.81,266.21 215.81,262.67 150.29,197.15 150.29,179.28 180.09,149.48" fill="none" stroke="#0490C8" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 5511(차고지) -->
+  <polyline points="205.21,96.68 205.21,225.64 181.94,248.90 177.81,253.03 177.81,292.71 177.81,312.14 157.97,331.98 77.98,412.01 77.98,416.13 107.50,445.65 111.13,445.65 140.35,416.42 173.64,416.42 183.27,406.79 215.51,406.79 225.99,417.27 225.99,460.97 228.52,463.50 228.52,490.47 251.18,513.13 251.18,583.00 238.11,596.07 227.90,596.07 201.92,622.05 201.92,624.32 172.18,654.06 140.60,654.06 129.21,665.45 129.21,712.59 118.50,723.30 118.50,737.97 141.39,760.87 169.31,760.87 183.15,747.02 183.15,696.74 177.97,691.55 177.97,653.68 172.18,647.89 172.18,642.08 143.36,613.27 143.36,572.80 139.96,569.40 139.96,551.27 119.27,530.57 119.27,514.05 141.00,492.32 141.00,478.71 112.62,450.33 115.49,450.33 145.13,420.69" fill="none" stroke="#59C7F3" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="79.17" cy="404.96" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="75.08" cy="448.75" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="101.52" cy="483.91" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="86.49" cy="525.25" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="102.54" cy="578.95" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="111.37" cy="622.05" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="133.38" cy="660.14" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="122.81" cy="718.12" r="3.8" fill="#0490C8" fill-opacity="0.42" stroke="#0490C8" stroke-width="1.4" stroke-opacity="0.75"/>
+  <circle cx="135.28" cy="760.30" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="178.51" cy="752.06" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="172.73" cy="695.87" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="165.72" cy="652.44" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="137.64" cy="617.08" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="134.06" cy="572.86" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="112.35" cy="530.67" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="134.06" cy="492.40" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="101.54" cy="448.06" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="133.31" cy="417.62" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="143.38" cy="374.79" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="187.92" cy="341.45" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="215.81" cy="266.21" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="150.29" cy="197.15" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="180.09" cy="149.48" r="5.6" fill="white" stroke="#0490C8" stroke-width="2.4"/>
+  <circle cx="205.21" cy="96.68" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="181.94" cy="248.90" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="177.81" cy="292.71" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="157.97" cy="331.98" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="77.98" cy="412.01" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="107.50" cy="445.65" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="140.35" cy="416.42" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="183.27" cy="406.79" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="225.99" cy="417.27" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="228.52" cy="463.50" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="251.18" cy="513.13" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="238.11" cy="596.07" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="201.92" cy="622.05" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="172.18" cy="654.06" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="129.21" cy="665.45" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="118.50" cy="723.30" r="3.8" fill="#59C7F3" fill-opacity="0.42" stroke="#59C7F3" stroke-width="1.4" stroke-opacity="0.75"/>
+  <circle cx="141.39" cy="760.87" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="183.15" cy="747.02" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="177.97" cy="691.55" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="172.18" cy="647.89" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="143.36" cy="613.27" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="139.96" cy="569.40" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="119.27" cy="530.57" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="141.00" cy="492.32" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="112.62" cy="450.33" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <circle cx="145.13" cy="420.69" r="5.6" fill="white" stroke="#59C7F3" stroke-width="2.4"/>
+  <text x="228.53" y="678.47" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">에너지자원신기술연구소</text>
+  <text x="78.58" y="339.48" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울대학교(신림로)</text>
+  <text x="138.34" y="779.59" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">건설환경종합연구소</text>
+  <text x="222.38" y="374.79" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울대학교(관악로)</text>
+  <text x="133.09" y="130.48" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울대입구역(도착)</text>
+  <text x="205.21" y="78.68" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울대입구역(출발)</text>
+  <text x="56.22" y="485.01" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">법대.사회대</text>
+  <text x="84.16" y="720.71" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="normal" fill="#222222" fill-opacity="0.55" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">제2파워플랜트</text>
+  <text x="170.31" y="530.62" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">자연대.행정관</text>
+  <text x="49.99" y="525.25" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">자연대.행정관</text>
+  <text x="238.42" y="641.05" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">유전공학연구소</text>
+  <text x="210.33" y="730.54" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">제2공학관</text>
+  <text x="95.85" y="693.71" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">제1공학관</text>
+  <text x="36.52" y="432.91" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">법대.사회대</text>
+  <text x="284.18" y="513.13" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">관악사삼거리</text>
+  <text x="166.50" y="596.17" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">공대입구</text>
+  <text x="165.60" y="437.24" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">정문</text>
+  <text x="255.49" y="417.27" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">수의대입구</text>
+  <text x="258.02" y="463.50" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">국제대학원</text>
+  <text x="208.61" y="577.07" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">공동기기원</text>
+  <text x="152.44" y="248.90" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">관악경찰서</text>
+  <text x="97.30" y="662.80" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">신소재</text>
+  <text x="163.01" y="552.13" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">농생대</text>
+  <text x="163.53" y="473.36" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">문화관</text>
+  <text x="85.37" y="641.05" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">공대입구</text>
+  <text x="213.92" y="341.45" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">치과병원</text>
+  <text x="241.81" y="266.21" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울여상</text>
+  <text x="124.29" y="197.15" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">관악구청</text>
+  <text x="151.81" y="292.71" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울여상</text>
+  <text x="131.97" y="312.98" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">치과병원</text>
+  <text x="76.54" y="597.95" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">농생대</text>
+  <text x="183.27" y="495.79" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">경영대</text>
+  <text x="49.08" y="467.75" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">정문</text>
+  <rect x="0" y="900.00" width="900" height="68.00" fill="#eeeeee"/>
+  <line x1="0" y1="900.00" x2="900" y2="900.00" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="80.00" y="924.00" font-size="12" font-weight="bold" fill="#333333">범례</text>
+  <line x1="80.00" y1="948.00" x2="104.00" y2="948.00" stroke="#0490C8" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="110.00" y="948.00" dy="4" font-size="11" fill="#333333">5511(중앙대)</text>
+  <line x1="250.00" y1="948.00" x2="274.00" y2="948.00" stroke="#59C7F3" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="280.00" y="948.00" dy="4" font-size="11" fill="#333333">5511(차고지)</text>
+</svg>

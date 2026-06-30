@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="990" viewBox="0 0 900 990">
+  <style>text { font-family: 'Noto Sans KR', sans-serif; }</style>
+  <rect width="900" height="990" fill="#f8f9fa"/>
+  <!-- Route: 서울-제주 -->
+  <polyline points="161.06,165.27 130.77,195.56 130.77,768.97" fill="none" stroke="#039696" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 서울-부산 -->
+  <polyline points="167.84,165.85 167.84,205.25 489.09,526.50" fill="none" stroke="#04C8C8" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 서울-광주 -->
+  <polyline points="174.53,165.26 146.07,193.71 146.07,515.33" fill="none" stroke="#2D7FF9" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 서울-강릉 -->
+  <polyline points="181.34,165.07 445.25,165.07 472.11,138.21" fill="none" stroke="#5B5FEF" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 광주-부산 -->
+  <polyline points="152.84,515.58 485.14,515.58 495.86,526.30" fill="none" stroke="#7C3AED" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 광주-강릉 -->
+  <polyline points="159.55,514.81 159.55,457.39 478.96,137.99" fill="none" stroke="#BE1A1A" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Route: 부산-강릉 -->
+  <polyline points="502.65,526.45 502.65,154.80 485.80,137.96" fill="none" stroke="#22C55E" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="161.06" cy="165.27" r="5.6" fill="white" stroke="#039696" stroke-width="2.4"/>
+  <circle cx="130.77" cy="768.97" r="5.6" fill="white" stroke="#039696" stroke-width="2.4"/>
+  <circle cx="167.84" cy="165.85" r="5.6" fill="white" stroke="#04C8C8" stroke-width="2.4"/>
+  <circle cx="489.09" cy="526.50" r="5.6" fill="white" stroke="#04C8C8" stroke-width="2.4"/>
+  <circle cx="174.53" cy="165.26" r="5.6" fill="white" stroke="#2D7FF9" stroke-width="2.4"/>
+  <circle cx="146.07" cy="515.33" r="5.6" fill="white" stroke="#2D7FF9" stroke-width="2.4"/>
+  <circle cx="181.34" cy="165.07" r="5.6" fill="white" stroke="#5B5FEF" stroke-width="2.4"/>
+  <circle cx="472.11" cy="138.21" r="5.6" fill="white" stroke="#5B5FEF" stroke-width="2.4"/>
+  <circle cx="152.84" cy="515.58" r="5.6" fill="white" stroke="#7C3AED" stroke-width="2.4"/>
+  <circle cx="495.86" cy="526.30" r="5.6" fill="white" stroke="#7C3AED" stroke-width="2.4"/>
+  <circle cx="159.55" cy="514.81" r="5.6" fill="white" stroke="#BE1A1A" stroke-width="2.4"/>
+  <circle cx="478.96" cy="137.99" r="5.6" fill="white" stroke="#BE1A1A" stroke-width="2.4"/>
+  <circle cx="502.65" cy="526.45" r="5.6" fill="white" stroke="#22C55E" stroke-width="2.4"/>
+  <circle cx="485.80" cy="137.96" r="5.6" fill="white" stroke="#22C55E" stroke-width="2.4"/>
+  <text x="171.19" y="147.36" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">서울</text>
+  <text x="478.96" y="120.05" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">강릉</text>
+  <text x="152.82" y="534.24" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">광주</text>
+  <text x="495.87" y="545.42" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">부산</text>
+  <text x="130.77" y="787.97" text-anchor="middle" dominant-baseline="middle" font-size="11" font-weight="bold" fill="#222222" fill-opacity="1.0" stroke="#f8f9fa" stroke-width="3" stroke-linejoin="round" paint-order="stroke">제주</text>
+  <rect x="0" y="900.00" width="900" height="90.00" fill="#eeeeee"/>
+  <line x1="0" y1="900.00" x2="900" y2="900.00" stroke="#d2d2d2" stroke-width="1"/>
+  <text x="80.00" y="924.00" font-size="12" font-weight="bold" fill="#333333">범례</text>
+  <line x1="80.00" y1="948.00" x2="104.00" y2="948.00" stroke="#039696" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="110.00" y="948.00" dy="4" font-size="11" fill="#333333">서울-제주</text>
+  <line x1="250.00" y1="948.00" x2="274.00" y2="948.00" stroke="#04C8C8" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="280.00" y="948.00" dy="4" font-size="11" fill="#333333">서울-부산</text>
+  <line x1="420.00" y1="948.00" x2="444.00" y2="948.00" stroke="#2D7FF9" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="450.00" y="948.00" dy="4" font-size="11" fill="#333333">서울-광주</text>
+  <line x1="590.00" y1="948.00" x2="614.00" y2="948.00" stroke="#5B5FEF" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="620.00" y="948.00" dy="4" font-size="11" fill="#333333">서울-강릉</text>
+  <line x1="80.00" y1="970.00" x2="104.00" y2="970.00" stroke="#7C3AED" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="110.00" y="970.00" dy="4" font-size="11" fill="#333333">광주-부산</text>
+  <line x1="250.00" y1="970.00" x2="274.00" y2="970.00" stroke="#BE1A1A" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="280.00" y="970.00" dy="4" font-size="11" fill="#333333">광주-강릉</text>
+  <line x1="420.00" y1="970.00" x2="444.00" y2="970.00" stroke="#22C55E" stroke-width="4.5" stroke-linecap="round"/>
+  <text x="450.00" y="970.00" dy="4" font-size="11" fill="#333333">부산-강릉</text>
+</svg>
